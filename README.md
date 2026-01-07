@@ -6,21 +6,20 @@
 
 <div align="center">
 
-### Frontend
+<strong>Frontend</strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-<br/>
+<br/><br/>
 
-### Backend & Database
+<strong>Backend & Database</strong><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb" />
 
-<br/>
+<br/><br/>
 
-### Tools & Platforms
+<strong>Tools & Platforms</strong><br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,aws,docker" />
 
 </div>
-
 
 ---
 
@@ -31,8 +30,13 @@ const marcelo = {
   name: "Marcelo Cagara",
   location: "Philippines 🇵🇭",
   role: "Full-Stack Developer",
-  focus: "Scalable web applications & clean UI",
-  skills: ["Frontend", "Backend", "UI/UX", "IoT"],
+  specialization: [
+    "Frontend Development",
+    "Backend APIs",
+    "UI/UX Design",
+    "IoT Systems"
+  ],
+  currentFocus: "Building scalable, maintainable, and user-centered applications",
   learning: ["TypeScript", "Next.js", "Cloud Architecture"],
-  approach: "Design with intention. Build with clarity."
+  mindset: "Design with intention. Build with clarity."
 };
