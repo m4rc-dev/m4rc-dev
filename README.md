@@ -10,7 +10,8 @@
 
 ---
 
-# 🟩 About Me
+## 🟩 About Me
+
 ```diff
 + Full-Stack Developer in training
 + Focused on JavaScript, Node.js, and Express
