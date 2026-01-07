@@ -17,7 +17,7 @@
 <br/><br/>
 
 <strong>Tools & Platforms</strong><br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,aws,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker" />
 
 </div>
 
